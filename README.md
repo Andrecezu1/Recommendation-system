@@ -17,16 +17,17 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 Recommendations systems are of high interest in the community. Basicly becaused based in user similarity, it is possible to offer products and services that an user would like and enhance the company. Therefore, there were developed different recommendations systems acored to different rules that can be seen in the python notebook.
 
 The data was given by Udacity and consist in four files:
-1. AAAAAA
+1. data/user-item-interactions.csv
+2. data/articles_community.csv
 
 ## File Descriptions <a name="files"></a>
 
 There is one (1) notebook:
-1. AAAAA.
+1. Recommendations_with_IBM.ipynb that shows the development of the topics.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the web page found [here](AAAAA).
+The main findings of the code can be found at the notebook.
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
